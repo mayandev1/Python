@@ -1,3 +1,7 @@
+# instale as bibliotecas no terminal:
+# requests = pip install requests
+# bs4 = pip install beautifulsoup4 requests
+
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
